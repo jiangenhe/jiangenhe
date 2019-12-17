@@ -1,0 +1,54 @@
+.publication {
+    line-height: 1.5em;
+    display: flex;
+    margin-bottom: 1.5em;
+}
+
+.publication .thumbnail{
+    min-width: 5.5em;
+    height: 5.5em;
+
+    margin: 0.5em 1.5em 0 0;
+}
+
+.publication .thumbnail img{
+    width: 5.5em;
+    height: 5.5em;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1), 0 3px 10px 0 rgba(0, 0, 0, 0.10);
+}
+
+.publication .title{
+    font-size: 1.1em;
+    line-height: 1.7em;
+    font-weight: 600;
+    color: #126696
+}
+
+.publication .author{
+    font-size: 0.9em;
+    color: #000;
+}
+
+.publication .venue{
+    font-size: 0.9em;
+}
+
+.publication .badge-icon-orange {
+    color: #f7a42d;
+    border: 1px solid #f7a42d;
+}
+
+.publication .badge-icon-blue {
+    color: #ffa215;
+    border: 1px solid #ffa215;
+}
+
+.publication .badge-icon-orange.selected {
+    color: #fff;
+    background-color: #439fd4;
+}
+
+.publication .badge-icon-blue.selected {
+    color: #fff;
+    background-color: #ffa215;
+}

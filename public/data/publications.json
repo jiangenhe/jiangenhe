@@ -1,0 +1,179 @@
+[
+  {
+    "id": "racial-mirroring",
+    "bibtex": "@article{racial-mirroring, author = {Liao, Yuting and He, Jiangen}, title = {The Racial Mirroring Effects on Human-Agent in Psychotherapeutic Conversation}, journal = {Proceedings of the 25th International Conference on Intelligent User Interfaces (ACM IUI 2020)}, abstract = {Conversational agents are increasingly utilized to deliver mental health services. Although these intelligent systems promise more aﬀordable mental healthcare, one critical challenge is patient adherence. Our study explores the “racial mirroring” eﬀects on people's engagement with and perception of agents in the context of psychotherapy. We developed a conversational system with racially heterogeneous personas using strong visual cues. We conducted an experiment by randomly assigning participants (N=212) to racial mirroring, non-mirroring and control groups. Our results suggest that racial mirroring did inﬂuence people’s perceived interpersonal closeness with agents, use satisfaction, disclosure comfort, desire to continue interacting, and projected future relationship. In this paper, we present the conversational system, experimental procedure and results. We conclude with design recommendations for employing conversational agents in mental health intervention.}, year = {2020}, location={Cagliari, Italy} }",
+    "pdf": "racial-mirroring.pdf",
+    "thumbnail": "racial-mirroring.png",
+    "fa": 1,
+    "ca": 0,
+    "type": "C",
+    "tags": [
+      {"label": "Social Studies of AI", "type": "field"},
+      {"label": "User Study", "type": "method"}
+    ]
+  },
+  {
+    "id": "smt-asist",
+    "bibtex": "@article{doi:10.1002/pra2.38, author = {He, Jiangen and Lou, Wen and Li, Kai}, title = {How were science mapping tools applied? the application of science mapping tools in LIS and non-LIS domains}, journal = {Proceedings of the Association for Information Science and Technology}, volume = {56}, number = {1}, pages = {404-408}, keywords = {Science Mapping Tools, Scholarly Communication, Scientific Software, Scientific Evolution}, doi = {10.1002/pra2.38}, url = {https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.38}, eprint = {https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/pra2.38}, abstract = {ABSTRACT As a scientific field, scientific mapping offers a set of standardized methods and tools that can be consistently adopted by researchers in different knowledge domains to answer their own research questions. This study examined scientific articles that applied science mapping tools (SMTs) to analyze scientific domains and the citations of these application articles. To understand the roles of these application articles in scholarly communication, we analyzed them and their citations by classifying them into library and information science (LIS) and other fields (non-LIS) in terms of both publication venues and analyzed domains. Through our preliminary study, we found that science mapping, a topic that is deeply situated in the LIS field, has gained increasing attention from various non-LIS scientific fields over the past few years. The application articles within and outside of the LIS fields played different roles in advancing the application of science mapping.}, year = {2019} }",
+    "pdf": "smt-asist.pdf",
+    "thumbnail": "smt-asist.png",
+    "fa": 1,
+    "ca": 0,
+    "type": "C",
+    "tags": [
+      {"label": "Visualization", "type": "method"},
+      {"label": "Science Mapping", "type": "area"},
+      {"label": "Science Studies", "type": "field"}
+    ]
+  },
+  {
+    "id": "peer-review-citation",
+    "bibtex": "@inproceedings{he2019citations,\n  title={The citations of papers with conflicting reviews and confident reviewers},\n  author={He, Jiangen and Chen, Chaomei},\n  booktitle={17th International Conference on Scientometrics and Informetrics, ISSI 2019},\n  pages={2411--2417},\n  year={2019},\n  organization={International Society for Scientometrics and Informetrics},\n location={Rome, Italy}}",
+    "pdf": "peer-review-citation.pdf",
+    "thumbnail": "peer-review-citation.png",
+    "fa": 1,
+    "ca": 1,
+    "type": "C",
+    "tags": [
+      {"label": "Peer Review", "type": "area"},
+      {"label": "Open Science", "type": "area"},
+      {"label": "Science Studies", "type": "field"}
+    ]
+  },
+  {
+    "id": "representation-visualization",
+    "bibtex": "@inproceedings{representation-vis,\n  title={Visualizing Temporal Patterns in Representation Data},\n  author={He, Jiangen and Chen, Chaomei},\n  booktitle={ VADL 2017: Workshop on Visual Analytics for Deep Learning co-located with the 2017 IEEE Visualization Conference (VIS 2017)},\n  year={2017},\n  location={Phoenix, Texas, United States}\n}",
+    "pdf": "representation-visualization.pdf",
+    "thumbnail": "representation-visualization.png",
+    "fa": 1,
+    "ca": 1,
+    "type": "C",
+    "tags": [
+      {"label": "Machine Learning", "type": "method"},
+      {"label": "Representation Learning", "type": "method"},
+      {"label": "Visualization", "type": "method"},
+      {"label": "Science Studies", "type": "field"}
+    ]
+  },
+  {
+    "id": "paperpoles",
+    "bibtex": "@article{doi:10.1002/asi.24171,\nauthor = {He, Jiangen and Ping, Qing and Lou, Wen and Chen, Chaomei},\ntitle = {PaperPoles: Facilitating adaptive visual exploration of scientific publications by citation links},\njournal = {Journal of the Association for Information Science and Technology},\n\nvolume = {70},\nnumber = {8},\npages = {843-857},\ndoi = {10.1002/asi.24171},\nurl = {https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/asi.24171},\neprint = {https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/asi.24171},\nabstract = {Finding relevant publications is a common task. Typically, a researcher browses through a list of publications and traces additional relevant publications. When relevant publications are identified, the list may be expanded by the citation links of the relevant publications. The information needs of researchers may change as they go through such iterative processes. The exploration process quickly becomes cumbersome as the list expands. Most existing academic search systems tend to be limited in terms of the extent to which searchers can adapt their search as they proceed. In this article, we introduce an adaptive visual exploration system named PaperPoles to support exploration of scientific publications in a context-aware environment. Searchers can express their information needs by intuitively formulating positive and negative queries. The search results are grouped and displayed in a cluster view, which shows aspects and relevance patterns of the results to support navigation and exploration. We conducted an experiment to compare PaperPoles with a list-based interface in performing two academic search tasks with different complexity. The results show that PaperPoles can improve the accuracy of searching for the simple and complex tasks. It can also reduce the completion time of searching and improve exploration effectiveness in the complex task. PaperPoles demonstrates a potentially effective workflow for adaptive visual search of complex information.},\nyear = {2019}\n}\n",
+    "website": "http://www.jiangenhe.com/paperpoles",
+    "pdf": "paperpoles.pdf",
+    "thumbnail": "paperpoles.png",
+    "fa": 1,
+    "ca": 1,
+    "type": "J",
+    "tags": [
+      {"label": "Visualization", "type": "method"},
+      {"label": "Network Science", "type": "method"},
+      {"label": "Information Retrieval", "type": "area"},
+      {"label": "Science Studies", "type": "field"},
+      {"label": "User Study", "type": "method"}
+    ]
+  },
+  {
+    "id": "citespace-ways-to-use",
+    "bibtex": "@article{doi:10.1002/asi.23770,\nauthor = {Ping, Qing and He, Jiangen and Chen, Chaomei},\ntitle = {How many ways to use CiteSpace? A study of user interactive events over 14 months},\njournal = {Journal of the Association for Information Science and Technology},\n\nvolume = {68},\nnumber = {5},\npages = {1234-1256},\ndoi = {10.1002/asi.23770},\nurl = {https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/asi.23770},\neprint = {https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/asi.23770},\nabstract = {Using visual analytic systems effectively may incur a steep learning curve for users, especially for those who have little prior knowledge of either using the tool or accomplishing analytic tasks. How do users deal with a steep learning curve over time? Are there particularly problematic aspects of an analytic process? In this article we investigate these questions through an integrative study of the use of CiteSpace—a visual analytic tool for finding trends and patterns in scientific literature. In particular, we analyze millions of interactive events in logs generated by users worldwide over a 14-month period. The key findings are: (i) three levels of proficiency are identified, namely, level 1: low proficiency, level 2: intermediate proficiency, and level 3: high proficiency, and (ii) behavioral patterns at level 3 are resulted from a more engaging interaction with the system, involving a wider variety of events and being characterized by longer state transition paths, whereas behavioral patterns at levels 1 and 2 seem to focus on learning how to use the tool. This study contributes to the development and evaluation of visual analytic systems in realistic settings and provides a valuable addition to the study of interactive visual analytic processes.},\nyear = {2017}\n}",
+    "pdf": "citespace-ways-to-use.pdf",
+    "thumbnail": "citespace-ways-to-use.png",
+    "fa": 0,
+    "ca": 0,
+    "type": "J",
+    "tags": [
+      {"label": "Visualization", "type": "method"},
+      {"label": "Science Mapping", "type": "area"},
+      {"label": "Science Studies", "type": "field"},
+      {"label": "User Study", "type": "method"}
+    ]
+  },
+  {
+    "id": "WHU-HTMVIS",
+    "bibtex": "@article{weilu2018,\n  title={A Visualization Technique for Multidimensional Data with Hierarchical and Temporal Structure (In Chinese)},\n  author={Lu, Wei and He, Jiangen and Wang, Xiaoguang and Wu, Jiaxin},\n doi={10.3772/j.issn.1000-0135.2012.11.002}, \n  journal={Journal of The China Society For Scientific and Technical Information},\n  volume={31},\n  number={11},\n  pages={1131--1139},\n  year={2012}\n}",
+    "pdf": "WHU-HTMVIS.pdf",
+    "thumbnail": "WHU-HTMVIS.png",
+    "fa": 0,
+    "ca": 0,
+    "type": "J",
+    "tags": [
+      {"label": "Visualization", "type": "method"},
+      {"label": "Science Mapping", "type": "area"},
+      {"label": "Science Studies", "type": "field"}
+    ]
+  },
+  {
+    "id": "paper-change-role",
+    "bibtex": "@inproceedings{early,\naddress = {Wuhan, China},\nauthor = {He, Jiangen and Chen, Chaomei},\nbooktitle = {Proceedings of the Second Workshop on Mining Scientific Papers: Computational Linguistics and Bibliometrics (CLBib-2017)\nco-located with 16th International Conference on Scientometrics and Informetrics (ISSI 2017)},\npages = {42--48},\ntitle = {Understanding the Changing Roles of Scientific Publications via Citation Embeddings},\nyear = {2017}\n}",
+    "pdf": "paper-change-role.pdf",
+    "fa": 1,
+    "ca": 1,
+    "type": "C",
+    "tags": [
+      {"label": "Machine Learning", "type": "method"},
+      {"label": "Representation Learning", "type": "method"},
+      {"label": "Science Studies", "type": "field"},
+      {"label": "Informetrics", "type": "area"}
+    ]
+  },
+  {
+    "id": "topic-trajectory",
+    "bibtex": "@inproceedings{He:2016:SAT:2968220.2968244,\n author = {He, Jiangen and Chen, Chaomei},\n title = {Spatiotemporal Analytics of Topic Trajectory},\n booktitle = {Proceedings of the 9th International Symposium on Visual Information Communication and Interaction},\n series = {VINCI '16},\n year = {2016},\n isbn = {978-1-4503-4149-3},\n location = {Dallas, TX, USA},\n pages = {112--116},\n numpages = {5},\n url = {http://doi.acm.org/10.1145/2968220.2968244},\n doi = {10.1145/2968220.2968244},\n acmid = {2968244},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {Spatial Visualization, Temporal Visualization, Topic Trajectory, Visual Analytics},\n} \n",
+    "pdf": "topic-trajectory.pdf",
+    "thumbnail": "topic-trajectory.png",
+    "fa": 1,
+    "ca": 1,
+    "type": "C",
+    "tags": [
+      {"label": "Visualization", "type": "method"},
+      {"label": "Science Mapping", "type": "area"},
+      {"label": "Science Studies", "type": "field"}
+    ]
+  },
+  {
+    "id": "novelty-semantic-embedding",
+    "bibtex": "@ARTICLE{10.3389/frma.2018.00009, AUTHOR={He, Jiangen and Chen, Chaomei}, TITLE={Predictive Effects of Novelty Measured by Temporal Embeddings on the Growth of Scientific Literature}, JOURNAL={Frontiers in Research Metrics and Analytics}, VOLUME={3}, PAGES={9}, YEAR={2018}, URL={https://www.frontiersin.org/article/10.3389/frma.2018.00009}, DOI={10.3389/frma.2018.00009}, ISSN={2504-0537}, ABSTRACT={Novel scientific knowledge is constantly produced by the scientific community. Understanding the level of novelty characterized by scientific literature is a key for modeling scientific dynamics and analyzing the growth mechanisms of scientific knowledge. Metrics derived from bibliometrics and citation analysis were effectively used to characterize the novelty in scientific development. However, time is required before we can observe links between documents such as citation links or patterns derived from the links, which makes these techniques more effective for retrospective analysis than predictive analysis. In this study, we present a new approach to measuring the novelty of a research topic in a scientific community over a specific period by tracking semantic changes of the terms and characterizing the research topic in their usage context. The semantic changes are derived from the text data of scientific literature by temporal embedding learning techniques. We validated the effects of the proposed novelty metric on predicting the future growth of scientific publications and investigated the relations between novelty and growth by panel data analysis applied in a large-scale publication dataset (MEDLINE/PubMed). Key findings based on the statistical investigation indicate that the novelty metric has significant predictive effects on the growth of scientific literature and the predictive effects may last for more than 10 years. We demonstrated the effectiveness and practical implications of the novelty metric in three case studies.} }",
+    "pdf": "novelty-semantic-embedding.pdf",
+    "thumbnail": "novelty-semantic-embedding.png",
+    "fa": 1,
+    "ca": 1,
+    "type": "J",
+    "tags": [
+      {"label": "Machine Learning", "type": "method"},
+      {"label": "Representation Learning", "type": "method"},
+      {"label": "Visualization", "type": "method"},
+      {"label": "Science Mapping", "type": "area"},
+      {"label": "Informetrics", "type": "area"},
+      {"label": "Science Studies", "type": "field"}
+    ]
+  },
+  {
+    "id": "temporal-presentation-citation",
+    "bibtex": "@ARTICLE{10.3389/frma.2018.00027, AUTHOR={He, Jiangen and Chen, Chaomei}, TITLE={Temporal Representations of Citations for Understanding the Changing Roles of Scientific Publications}, JOURNAL={Frontiers in Research Metrics and Analytics}, VOLUME={3}, PAGES={27}, YEAR={2018}, DOI={10.3389/frma.2018.00027}, ABSTRACT={Researchers may describe different aspects of past scientific publications in their publications and the descriptions may keep changing in the evolution of science. The diverse and changing descriptions (i.e., citation contexts) on a publication characterize the impact and contributions of the past publication. In this article, we aim to provide an approach to understanding the changing roles of a publication characterized by its citation contexts in the full text of publications. We proposed approaches for representing the changing citation contexts of cited publications in different periods as sequences of vectors by training temporal embedding models. We can utilize the temporal representations to quantify how much the roles of publications changed and interpret how they changed. We also evaluated the performance of three ways of constructing citation contexts for representation learning. Our study in the biomedical domain shows that our metric on the changes of publication roles is stable at the group level but it can account for the variation of individual publications.} }",
+    "pdf": "temporal-presentation-citation.pdf",
+    "thumbnail": "temporal-presentation-citation.png",
+    "fa": 1,
+    "ca": 1,
+    "type": "J",
+    "tags": [
+      {"label": "Machine Learning", "type": "method"},
+      {"label": "Representation Learning", "type": "method"},
+      {"label": "Science Mapping", "type": "area"},
+      {"label": "Informetrics", "type": "area"},
+      {"label": "Science Studies", "type": "field"}
+    ]
+  },
+  {
+    "id": "of-people-for-the-people",
+    "bibtex": "@article{Lou_Wang_He_2018, title={Of the People for the People: Digital Literature Resource Knowledge Recommendation Based on User Cognition}, volume={37}, url={https://ejournals.bc.edu/index.php/ital/article/view/10060}, DOI={10.6017/ital.v37i3.10060}, abstractNote={&lt;p class=&quot;AbstractText&quot;&gt;We attempt to improve user satisfaction with the effects of retrieval results and visual appearance by employing users’ own information. User feedback on digital platforms has been proven to be one type of user cognition. Through conducting a digital literature resource organization model based on user cognition, our proposal improves both the content and presentation of retrieval systems. This paper takes Powell’s City of Books as an example to describe the construction process of a knowledge network. The model consists of two parts. In the unstructured data part, synopses and reviews were recorded as representatives of user cognition. To build the resource category, linguistic and semantic analyses were used to analyze the concepts and the relationships among them. In the structural data part, the metadata of every book was linked with each other by informetrics relationships. The semantic resource was constructed to assist with building the knowledge network. We conducted a mock-up to compare the new category and knowledge-recommendation system with the current retrieval system. Thirty-nine subjects examined our mock-up and highly valued the differences we made for the improvements in retrieval and appearance. Knowledge recommendation based on user cognition was tested to be positive based on user feedback. There could be more research objects for digital resource knowledge recommendations based on user cognition.&lt;/p&#38;gt;}, number={3}, journal={Information Technology and Libraries}, author={Lou, Wen and Wang, Hui and He, Jiangen}, year={2018}, month={Sep.}, pages={66-83} }",
+    "pdf": "of-people-for-the-people.pdf",
+    "thumbnail": "of-people-for-the-people.png",
+    "fa": 0,
+    "ca": 0,
+    "type": "J",
+    "tags": [
+      {"label": "Visualization", "type": "method"},
+      {"label": "Digital Library", "type": "area"},
+      {"label": "Science Studies", "type": "field"}
+    ]
+  }
+]

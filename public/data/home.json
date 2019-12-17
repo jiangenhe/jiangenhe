@@ -1,0 +1,24 @@
+{
+  "showcases": [
+    {
+      "title": "PaperPoles",
+      "description": "",
+      "link": "http://www.qq.com"
+    },
+    {
+      "title": "Chatbot",
+      "description": "",
+      "link": "qq.com"
+    },
+    {
+      "title": "Shopping",
+      "description": "",
+      "link": "qq.com"
+    }
+  ],
+  "spotlight" : {
+    "title": "SciRiver",
+    "description": "ss",
+    "link": "aa"
+  }
+}
