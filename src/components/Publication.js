@@ -4,7 +4,7 @@ import Tag from './Tag'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faLink, faFilePdf } from '@fortawesome/free-solid-svg-icons'
 
-const Publication = ({title, venue, year, authors, tags, website, doi, pdf, thumbnail}) => {
+const Publication = ({title, venue, year, authors, tags, website, doi, pdf, thumbnail, selected}) => {
   const authorList = authors.split('and').map((author, i, authors) => {
     const [lastName, firstName] = author.replace(' ', '').split(',')
     if (firstName.includes("iangen")) {
@@ -20,8 +20,7 @@ const Publication = ({title, venue, year, authors, tags, website, doi, pdf, thum
     } else {
       return -1
     }
-  }).map( t => <Tag name={t.label} type={t.type}/>)
-  console.log(authorList);
+  }).map( t => <Tag key={t.label} name={t.label} type={t.type} isSelected={t.label in selected}/>)
   return (
       <div className='publication'>
         <div className='thumbnail'>

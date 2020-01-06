@@ -6,7 +6,7 @@ import Spotlight from '../components/Spotlight'
 class Home extends Component {
   constructor (props) {
     super(props)
-    this.state = {data: {showcase: [], spotlight: {}}}
+    this.state = {data: {showcase: [], spotlight: {}, news: []}}
   }
 
   componentDidMount () {
@@ -16,12 +16,12 @@ class Home extends Component {
   }
 
   render () {
-    let {showcases, spotlight} = this.state.data;
+    let {showcases, spotlight, news} = this.state.data;
     console.log(showcases);
     return (
       <div>
         <Showcases data={showcases}/>
-        <Spotlight data={spotlight}/>
+        <Spotlight data={spotlight} news={news}/>
       </div>
     )
   }

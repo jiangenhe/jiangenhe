@@ -4,10 +4,10 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faFilePdf } from '@fortawesome/free-regular-svg-icons'
 import { faLink } from '@fortawesome/free-solid-svg-icons'
 
-const Showcase = ({title, description, link}) => {
+const Showcase = ({title, description, link, image}) => {
   return (
     <div className="col-4 col-12-medium">
-              <span className="image fit"><img src="images/pic02.jpg"
+              <span className="image fit"><img src={`images/${image}`}
                                                alt=""/></span>
       <h3>{title}</h3>
       <p>{description}</p>

@@ -1,73 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9069c9ae-aea6-4446-bd98-77c761a38b93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/data/home.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/data/publications.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/WHU-HTMVIS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/citespace-ways-to-use.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/header.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/novelty-semantic-embedding.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/of-people-for-the-people.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/paperpoles.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/peer-review-citation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pic01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pic02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pic03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pic04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pic05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pic06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/representation-visualization.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/smt-asist.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/temporal-presentation-citation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/topic-trajectory.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pdf/WHU-HTMVIS.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pdf/citespace-ways-to-use.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pdf/frma-03-00027 (3).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pdf/novelty-semantic-embedding.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pdf/of-people-for-the-people.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pdf/paper-change-role.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pdf/paperpoles.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pdf/smt-asist.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pdf/topic-trajectory.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/IconButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Publication.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Showcase.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Showcases.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Spotlight.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SummaryTag.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Tag.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/header.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/overlay1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/overlay2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/overlay3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/overlay4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routers/CV.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routers/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routers/Publications.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routers/Publications.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routers/Teaching.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/jiangenhe.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/jiangenhe.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="9069c9ae-aea6-4446-bd98-77c761a38b93" name="Default Changelist" comment="publication page">
+      <change afterPath="$PROJECT_DIR$/public/images/chatbot-race.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/racial-mirroring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/showcase-paperpoles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/voice-shopping.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/data/home.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/home.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Publication.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Publication.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Showcase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Showcase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Spotlight.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Spotlight.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SummaryTag.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SummaryTag.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Tag.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Tag.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routers/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routers/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routers/Publications.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routers/Publications.js" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,88 +28,6 @@
     <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
     <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Publication.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/routers/Publications.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="74" column="85" selection-start-line="74" selection-start-column="85" selection-end-line="74" selection-end-column="85" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Tag.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/SummaryTag.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/data/home.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="12" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/data/publications.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="139" column="13" lean-forward="true" selection-start-line="139" selection-start-column="13" selection-end-line="139" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="3415" column="18" selection-start-line="3415" selection-start-column="18" selection-end-line="3415" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -210,42 +78,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$USER_HOME$/Downloads/html5up-photon/index.html" />
-        <option value="$PROJECT_DIR$/public/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/src/index.css" />
-        <option value="$USER_HOME$/Downloads/html5up-telephasic/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/src/Router/Publications.js" />
-        <option value="$PROJECT_DIR$/src/Router/CV.js" />
-        <option value="$PROJECT_DIR$/src/Router/Home.js" />
-        <option value="$PROJECT_DIR$/src/routers/Teaching.js" />
-        <option value="$PROJECT_DIR$/src/routers/CV.js" />
-        <option value="$USER_HOME$/Downloads/html5up-photon/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/src/components/Showcase.js" />
-        <option value="$PROJECT_DIR$/public/data/home.json" />
-        <option value="$PROJECT_DIR$/src/routers/Home.js" />
-        <option value="$PROJECT_DIR$/src/components/Spotlight.js" />
-        <option value="$PROJECT_DIR$/src/components/Header.js" />
-        <option value="$PROJECT_DIR$/src/components/Footer.js" />
-        <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Showcases.js" />
-        <option value="$PROJECT_DIR$/src/components/Label.js" />
-        <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/src/components/IconButton.js" />
-        <option value="$PROJECT_DIR$/src/routers/Publications.css" />
-        <option value="$PROJECT_DIR$/src/components/Publication.js" />
-        <option value="$PROJECT_DIR$/src/components/Tag.js" />
-        <option value="$PROJECT_DIR$/public/data/publications.json" />
-        <option value="$PROJECT_DIR$/src/routers/Publications.js" />
-        <option value="$PROJECT_DIR$/src/App.css" />
-        <option value="$PROJECT_DIR$/src/components/SummaryTag.js" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-      </list>
-    </option>
-  </component>
   <component name="JsBowerSettings">
     <node-interpreter value="project" />
     <exe-path>/usr/local/bin/bower</exe-path>
@@ -258,31 +90,14 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
-  </component>
+  <component name="ProjectId" id="1W2SnNFxHQqkUTNb360yIRtUpGP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="jiangenhe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiangenhe" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="HbShouldOpenHtmlAsHb" value="" />
@@ -290,9 +105,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
@@ -307,32 +123,20 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/components" />
-      <recent name="$PROJECT_DIR$/public/images" />
-      <recent name="$PROJECT_DIR$/public/pdf" />
-      <recent name="$PROJECT_DIR$/src/images" />
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/pdf" />
       <recent name="$PROJECT_DIR$/public/images" />
+      <recent name="$PROJECT_DIR$/public/pdf" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/styles" />
       <recent name="$PROJECT_DIR$/src/images" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images" />
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/public/pdf" />
+      <recent name="$PROJECT_DIR$/src/images" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.localhost:3000">
     <configuration name="localhost:3000" type="JavascriptDebugType" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:3000/">
@@ -349,6 +153,18 @@
       <item itemvalue="JavaScript Debug.localhost:3000" />
       <item itemvalue="npm.npm start" />
     </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -370,7 +186,11 @@
       <workItem from="1575786502683" duration="363000" />
       <workItem from="1575786948238" duration="34126000" />
       <workItem from="1576270074626" duration="12480000" />
-      <workItem from="1576488234187" duration="8810000" />
+      <workItem from="1576488234187" duration="23546000" />
+      <workItem from="1577057773339" duration="12629000" />
+      <workItem from="1577666550901" duration="186000" />
+      <workItem from="1578346238428" duration="91000" />
+      <workItem from="1578346374959" duration="38000" />
     </task>
     <task id="LOCAL-00001" summary="v20 corrected meatball price">
       <created>1572288792005</created>
@@ -379,341 +199,52 @@
       <option name="project" value="LOCAL" />
       <updated>1572288792005</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="publication page">
+      <created>1576550534675</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576550534675</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148840000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info id="npm" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.31642002" />
-      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.25061426" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="2" weight="0.3293944" />
-      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.2696177" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.49140048" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.3980344" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info id="npm" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.17746182" />
-      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.26861167" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.2696177" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.49140048" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39839035" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v20 corrected meatball price" />
-    <option name="LAST_COMMIT_MESSAGE" value="v20 corrected meatball price" />
+    <MESSAGE value="publication page" />
+    <option name="LAST_COMMIT_MESSAGE" value="publication page" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Downloads/html5up-photon/assets/js/util.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/js/main.js" />
-    <entry file="file://$PROJECT_DIR$/public/assets/css/main.css" />
-    <entry file="file://$PROJECT_DIR$/public/assets/sass/main.scss" />
-    <entry file="file://$PROJECT_DIR$/public/images/pic01.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/css/noscript.css" />
-    <entry file="file://$PROJECT_DIR$/public/favicon.ico" />
-    <entry file="file://$PROJECT_DIR$/src/images/Bitmap.png" />
-    <entry file="file://$PROJECT_DIR$/node_modules/react-scripts/template-typescript/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/html5up-photon/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8421">
-          <caret line="401" column="22" selection-start-line="390" selection-start-column="12" selection-end-line="401" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/html5up-telephasic/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1724">
-          <caret line="2212" column="17" selection-start-line="2162" selection-end-line="2212" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/prop-types/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routers/Teaching.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/html5up-telephasic/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routers/CV.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/html5up-photon 2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="35" column="50" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/citation-js/index.js" />
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/sectional.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="64" column="42" lean-forward="true" selection-start-line="64" selection-start-column="42" selection-end-line="64" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Spotlight.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.css" />
-    <entry file="file://$PROJECT_DIR$/src/components/Header.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/react-error-overlay/lib/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Showcases.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/html5up-photon/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61614">
-          <caret line="2934" column="21" selection-start-line="2933" selection-start-column="8" selection-end-line="2939" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routers/Home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Showcase.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="92" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="92" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="61" lean-forward="true" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/IconButton.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="120" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="120" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/smt-asist.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routers/Publications.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Footer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="90" selection-start-line="14" selection-start-column="90" selection-end-line="14" selection-end-column="124" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/data/home.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Tag.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/data/publications.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="139" column="13" lean-forward="true" selection-start-line="139" selection-start-column="13" selection-end-line="139" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Publication.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routers/Publications.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="74" column="85" selection-start-line="74" selection-start-column="85" selection-end-line="74" selection-end-column="85" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="3415" column="18" selection-start-line="3415" selection-start-column="18" selection-end-line="3415" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/SummaryTag.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Notifications" timestamp="1578346387238">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Notifications/0.0.1440.900/240.-1080.1920.1080/-1680.-1080.1920.1080@0.0.1440.900" timestamp="1578346387238" />
+    <state x="408" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578346407042">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="408" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900/240.-1080.1920.1080/-1680.-1080.1920.1080@0.0.1440.900" timestamp="1578346407042" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1578346404233">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900/240.-1080.1920.1080/-1680.-1080.1920.1080@0.0.1440.900" timestamp="1578346404233" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JavascriptDebugType">
+        <watch expression="p.tags.filter(t =&gt; t.label in selected).length" language="JavaScript" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>p.tags.filter(t =&gt; t.label in selected).length</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
 </project>

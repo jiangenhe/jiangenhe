@@ -1,9 +1,9 @@
 import React from 'react'
 
 
-const Tag = ({name, type}) => {
+const Tag = ({name, type, isSelected}) => {
   return (
-    <span className={'badge badge-pill badge-' + type}>{name}</span>
+    <span className={`badge badge-pill badge-${type}${isSelected ? ' selected':''}`}>{name}</span>
   )
 }
 

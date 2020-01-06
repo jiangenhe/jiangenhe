@@ -7,14 +7,14 @@ import { faFilePdf } from '@fortawesome/free-regular-svg-icons'
 class Spotlight extends Component {
   render () {
     const {title, description, link, doi, pdf} = this.props.data
+    const news = this.props.news
     return (
       <section className="main style1">
         <div className="container">
           <div className="row gtr-150">
-            <div className="col-6 col-12-medium">
-              <header className="major">
+            <div className="col-3 col-12-medium">
+              <header>
                 <h2>{ title }</h2>
-
               </header>
               <ul className="actions icons special" style={{justifyContent:"left"}}>
                 <li><a className="icon" href={link}><FontAwesomeIcon className="xs" icon={faLink} /></a></li>
@@ -24,9 +24,17 @@ class Spotlight extends Component {
               <p>{ description }</p>
 
             </div>
-            <div className="col-6 col-12-medium imp-medium">
+            <div className="col-5 col-12-medium imp-medium">
               <span className="image fit"><img src="images/pic01.jpg"
                                                alt=""/></span>
+            </div>
+            <div className="col-4 col-12-medium">
+              <header>
+                <h2>News </h2>
+              </header>
+              <ul>
+                {news.map(n => <li key={n.date}>[{}]{n.text}</li>)}
+              </ul>
             </div>
 
           </div>

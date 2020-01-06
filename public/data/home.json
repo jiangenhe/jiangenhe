@@ -2,17 +2,21 @@
   "showcases": [
     {
       "title": "PaperPoles",
-      "description": "",
-      "link": "http://www.qq.com"
+      "description": "An interactive information retrieval interface for academic search",
+      "image": "showcase-paperpoles.png",
+      "website": "http://www.jiangenhe.com/paperpoles",
+      "pdf": "paperpoles.pdf"
     },
     {
-      "title": "Chatbot",
-      "description": "",
+      "title": "Voice Shopping",
+      "description": "Understanding consumers’ product decisions when shopping by voice",
+      "image": "voice-shopping.png",
       "link": "qq.com"
     },
     {
-      "title": "Shopping",
-      "description": "",
+      "title": "Chatbot",
+      "image": "chatbot-race.png",
+      "description": "Racial mirroring effects on human-agent in psychotherapeutic conversation",
       "link": "qq.com"
     }
   ],
@@ -20,5 +24,19 @@
     "title": "SciRiver",
     "description": "ss",
     "link": "aa"
-  }
+  },
+  "news": [
+    {
+      "date": "12-12-2019",
+      "text": "Our paper has been accepted by IUI 2020."
+    },
+    {
+      "date": "09-01-2019",
+      "text": "I am honored to receive 2019 Eugene Garfield Doctoral Dissertation Scholarship!"
+    },
+    {
+      "date": "02-28-2019",
+      "text": "Our PaperPoles paper has been published in JASIST."
+    }
+  ]
 }
