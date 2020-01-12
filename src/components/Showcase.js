@@ -4,18 +4,20 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faFilePdf } from '@fortawesome/free-regular-svg-icons'
 import { faLink } from '@fortawesome/free-solid-svg-icons'
 
-const Showcase = ({title, description, link, image}) => {
+const Showcase = ({title, description, link, image, pdf, doi, article}) => {
+  console.log("pdf", pdf);
+
   return (
-    <div className="col-4 col-12-medium">
-              <span className="image fit"><img src={`images/${image}`}
-                                               alt=""/></span>
-      <h3>{title}</h3>
+    <div className="col-4 col-12-medium card">
+      <a href={article}><span className="image fit"><img src={`images/${image}`}
+                                                         alt=""/></span></a>
+               <h3><a href={article}>{title}</a></h3>
       <p>{description}</p>
-      <ul className="actions special icons">
-        <li><a className="icon" href={link}><FontAwesomeIcon className="xs" icon={faLink} /></a></li>
-        <li><a className="icon"><FontAwesomeIcon className="sm" icon={faFilePdf} /></a></li>
-        <li><a className="icon"><i className="ai ai-doi sm"/></a> </li>
-      </ul>
+      {/*<ul className="actions special icons">*/}
+      {/*  {link ? <li><a className="icon" href={link}><FontAwesomeIcon className="xs" icon={faLink} /></a></li> : ""}*/}
+      {/*  {pdf ? <li><a className="icon" href={`pdf/${pdf}`}><FontAwesomeIcon className="sm" icon={faFilePdf} /></a></li> : ""}*/}
+      {/*  {doi ? <li><a className="icon" href={"https://doi.org/" + doi}><i className="ai ai-doi sm"/></a> </li> : ""}*/}
+      {/*</ul>*/}
     </div>
   )
 }

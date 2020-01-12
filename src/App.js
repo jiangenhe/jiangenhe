@@ -7,6 +7,7 @@ import Home from './routers/Home'
 import Publications from './routers/Publications'
 import Teaching from './routers/Teaching'
 import CV from './routers/CV'
+import Article from './routers/Article'
 
 function App() {
   return (
@@ -28,6 +29,10 @@ function App() {
           <Route path="/CV">
             <Header/>
             <CV/>
+          </Route>
+          <Route path="/Article">
+            <Header/>
+            <Article/>
           </Route>
         </Switch>
         <Footer/>

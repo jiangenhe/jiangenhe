@@ -1,6 +1,6 @@
 .publication {
-    line-height: 1.5em;
     display: flex;
+    line-height: 1.5em;
     margin-bottom: 1.5em;
 }
 
@@ -19,14 +19,19 @@
 
 .publication .title{
     font-size: 1.1em;
-    line-height: 1.7em;
-    font-weight: 600;
-    color: #126696
+    font-weight: 400;
+    color: #000000;
+    font-family: "Harding","Lora",Palatino,Times,"Times New Roman",serif;
+}
+
+.publication .tag {
+    line-height: 1em;
 }
 
 .publication .author{
+    margin-top: 0.3em;
     font-size: 0.9em;
-    color: #000;
+    color: #333;
 }
 
 .publication .venue{

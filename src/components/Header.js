@@ -9,11 +9,12 @@ class Header extends Component {
     let isHome = this.props.home
     return (
       <section id="header">
+        <div className='container'>
         <nav id="nav">
           <ul>
-            <li><Link to="/">Home</Link></li>
-            <li><Link to="/Publications">Publications</Link></li>
-            <li><Link to="/Teaching">Teaching</Link></li>
+            <li><Link to="/">HOME</Link></li>
+            <li><Link to="/Publications">PUBLICATIONS</Link></li>
+            <li><Link to="/Teaching">TEACHING</Link></li>
             <li><Link to="/CV">CV</Link></li>
           </ul>
         </nav>
@@ -24,9 +25,10 @@ class Header extends Component {
           className="author__avatar" alt="Your Sidebar Name" />
         </div>
         <h1><strong> Jiangen He </strong></h1>
-        <p>Accumsan feugiat mi commodo erat lorem ipsum, sed magna<br/>
-          lobortis feugiat sapien sed etiam volutpat accumsan.</p>
+        <p>I am a PhD candidate in Information Science at Drexel University. <br/>
+          My current research focus on visual analytics, data-driven predictions, and critical information measurement in scientific development and studies of how socialness in artificial intelligence affects people’s information and decision-making behavior.</p>
         </div> : <div/>}
+        </div>
       </section>
     )
   }

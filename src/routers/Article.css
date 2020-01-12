@@ -1,0 +1,9 @@
+.article h1 {
+    text-align: center;
+}
+
+.article {
+    font-size: 13pt;
+    line-height: 18pt;
+    font-family: "Harding", "Lora", Palatino, Times, "Times New Roman", serif;
+}

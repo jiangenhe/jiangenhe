@@ -8,7 +8,7 @@ const Publication = ({title, venue, year, authors, tags, website, doi, pdf, thum
   const authorList = authors.split('and').map((author, i, authors) => {
     const [lastName, firstName] = author.replace(' ', '').split(',')
     if (firstName.includes("iangen")) {
-      return <span key={firstName} style={{fontWeight:800}}>{firstName} {lastName}{i !== authors.length - 1 && i !== authors.length - 2 ? ',' : ''}</span>
+      return <span key={firstName} style={{fontWeight:400}}>{firstName} {lastName}{i !== authors.length - 1 && i !== authors.length - 2 ? ',' : ''}</span>
     } else {
       return (i !== authors.length - 1 ? '' : ' and ') + firstName + ' ' + lastName + (i !== authors.length - 1 && i !== authors.length - 2 ? ',' : '')
     }
@@ -29,7 +29,7 @@ const Publication = ({title, venue, year, authors, tags, website, doi, pdf, thum
         </div>
         <div className='description'>
           <div className='title'>{title}</div>
-          <div> {tagList} </div>
+          <div className='tag'> {tagList} </div>
           <div className='author'>{authorList}</div>
           <div className='venue'><span>{year}</span> <span>{venue}</span></div>
           <div>
