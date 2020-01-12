@@ -30,7 +30,7 @@ function App() {
             <Header/>
             <CV/>
           </Route>
-          <Route path="/Article">
+          <Route path="/Article/:id">
             <Header/>
             <Article/>
           </Route>
