@@ -1,6 +1,6 @@
 {
   "name": "jiangenhe",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "private": true,
   "dependencies": {
     "@babel/core": "7.6.0",
@@ -53,6 +53,7 @@
     "react-app-polyfill": "^1.0.4",
     "react-dev-utils": "^9.1.0",
     "react-dom": "^16.11.0",
+    "react-html-parser": "^2.0.2",
     "react-markdown": "^4.3.1",
     "react-pdf": "^4.1.0",
     "react-router-dom": "^5.1.2",
@@ -74,7 +75,7 @@
     "build": "node scripts/build.js",
     "test": "node scripts/test.js"
   },
-  "homepage": "http://www.jiangenhe.com",
+  "homepage": "http://jiangenhe.com",
   "eslintConfig": {
     "extends": "react-app"
   },

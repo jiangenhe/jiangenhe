@@ -1,8 +1,5 @@
 import React, { Component } from 'react'
-import PropTypes from 'prop-types'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faLink } from '@fortawesome/free-solid-svg-icons'
-import { faFilePdf } from '@fortawesome/free-regular-svg-icons'
+import ReactHtmlParser from 'react-html-parser'
 
 class Spotlight extends Component {
   render () {
@@ -38,7 +35,7 @@ class Spotlight extends Component {
               <ul>
                 {news.map(n => <li style={{padding:0}} key={n.date}>
                   <span className="date">{n.date}</span>
-                  {n.link ? <a href={n.link}>{n.text}</a> : n.text}
+                  {n.link ? <a href={n.link}>{ReactHtmlParser(n.text)}</a> : ReactHtmlParser(n.text)}
                 </li>)}
               </ul>
             </div>

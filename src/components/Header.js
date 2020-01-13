@@ -22,7 +22,7 @@ class Header extends Component {
         <div className="author__avatar">
           <img
           src="../images/header.png"
-          className="author__avatar" alt="Your Sidebar Name" />
+          className="author__avatar" alt="Jiangen He" />
         </div>
         <h1><strong> Jiangen He </strong></h1>
         <p>I am a PhD candidate in Information Science at Drexel University. <br/>
