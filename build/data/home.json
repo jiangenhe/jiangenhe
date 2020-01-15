@@ -32,7 +32,7 @@
   "news": [
     {
       "date": "Dec 12, 2019",
-      "text": "Our Chatbot paper has been accepted by IUI 2020.",
+      "text": "Our paper has been accepted by <i>IUI 2020</i>.",
       "link": "http://iui.acm.org/2020/acceptedpapers.html"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "date": "Feb 28, 2019",
-      "text": "Our paper has been published in JASIST.",
+      "text": "Our paper has been published in <i>JASIST</i>.",
       "link": "https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24171"
     }
   ]
