@@ -1,4 +1,4 @@
-# Racial mirroring effects on human-agent in psychotherapeutic conversation
+# Racial Mirroring Effects on Human-agent in Psychotherapeutic Conversation
 
 <div class="row">
 <div class="col-3"></div>

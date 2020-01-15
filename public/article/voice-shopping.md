@@ -1,4 +1,4 @@
-# Understanding consumers’ product decisions when shopping by voice
+# Understanding Consumers’ Product Decisions When Shopping by Voice
 
 <div class="row"> 
 <div class="col-3"></div>

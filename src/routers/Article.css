@@ -1,5 +1,27 @@
 .article h1 {
+    font-size: 1.7em;
+    line-height: 1.35em;
     text-align: center;
+}
+
+.article h2 {
+    font-size: 1.4em;
+    line-height: 1.5em;
+}
+
+.article h3 {
+    font-size: 1.2em;
+    line-height: 1.5em;
+}
+
+.article h4 {
+    font-size: 1.25em;
+    line-height: 1.5em;
+}
+
+.article h5 {
+    font-size: 0.9em;
+    line-height: 1.5em;
 }
 
 .article {
@@ -7,3 +29,4 @@
     line-height: 18pt;
     font-family: "Harding", "Lora", Palatino, Times, "Times New Roman", serif;
 }
+

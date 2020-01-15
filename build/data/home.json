@@ -32,12 +32,12 @@
   "news": [
     {
       "date": "Dec 12, 2019",
-      "text": "Our paper has been accepted by IUI 2020.",
+      "text": "Our Chatbot paper has been accepted by IUI 2020.",
       "link": "http://iui.acm.org/2020/acceptedpapers.html"
     },
     {
       "date": "Sep 1, 2019",
-      "text": "I won 2019 Eugene Garfield Doctoral Dissertation Scholarship!",
+      "text": "I am honored to receive 2019 Eugene Garfield Doctoral Dissertation Scholarship!",
       "link": "http://issi-society.org/blog/posts/2019/june/2019-eugene-garfield-doctoral-dissertation-scholarship-winner/"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "date": "Feb 28, 2019",
-      "text": "Our PaperPoles paper has been published in JASIST.",
+      "text": "Our paper has been published in JASIST.",
       "link": "https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24171"
     }
   ]
