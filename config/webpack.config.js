@@ -26,6 +26,7 @@ const ModuleNotFoundPlugin = require('react-dev-utils/ModuleNotFoundPlugin');
 const ForkTsCheckerWebpackPlugin = require('react-dev-utils/ForkTsCheckerWebpackPlugin');
 const typescriptFormatter = require('react-dev-utils/typescriptFormatter');
 const eslint = require('eslint');
+const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
 
 const postcssNormalize = require('postcss-normalize');
 
@@ -209,6 +210,7 @@ module.exports = function(webpackEnv) {
     optimization: {
       minimize: isEnvProduction,
       minimizer: [
+        new UglifyJsPlugin(),
         // This is only used in production mode
         new TerserPlugin({
           terserOptions: {
@@ -319,6 +321,7 @@ module.exports = function(webpackEnv) {
       plugins: [
         // Adds support for installing with Plug'n'Play, leading to faster installs and adding
         // guards against forgotten dependencies and such.
+
         PnpWebpackPlugin,
         // Prevents users from importing files from outside of src/ (or node_modules/).
         // This often causes confusion because we only process files within src/ with babel.

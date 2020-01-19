@@ -32,7 +32,7 @@ class Spotlight extends Component {
 
               </header>
               {/*style={{listStyleType: 'none', margin: 0, padding: 0}}*/}
-              <ul>
+              <ul style={{listStyleType: 'none', margin: 0, padding: 0}}>
                 {news.map(n => <li style={{padding: "0.2em 0em"}} key={n.date}>
                   <span className="date">{n.date}</span>
                   <div style={{marginTop:"-0.5em", textAlign:"justify"}}>{n.link ? <a href={n.link}>{ReactHtmlParser(n.text)}</a> : ReactHtmlParser(n.text)}</div>

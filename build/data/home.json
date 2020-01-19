@@ -3,7 +3,7 @@
     {
       "title": "PaperPoles",
       "description": "An interactive information retrieval interface for academic search",
-      "image": "showcase-paperpoles.png",
+      "image": "showcase-paperpoles.jpg",
       "link": "http://www.jiangenhe.com/paperpoles",
       "pdf": "paperpoles.pdf",
       "doi": "10.1002/asi.24171",
@@ -12,13 +12,13 @@
     {
       "title": "Voice Shopping",
       "description": "Understanding consumers’ product decisions when shopping by voice",
-      "image": "voice-shopping.png",
+      "image": "voice-shopping.jpg",
       "link": "Article/voice-shopping",
       "article": "Article/voice-shopping"
     },
     {
       "title": "Chatbot",
-      "image": "chatbot-race.png",
+      "image": "chatbot-race.jpg",
       "description": "Racial mirroring effects on human-agent in psychotherapeutic conversation",
       "link": "http://jiangenhe.com/chatbot/?BOT_CODE=AM",
       "pdf": "racial-mirroring.pdf",

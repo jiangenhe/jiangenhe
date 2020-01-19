@@ -2,7 +2,7 @@
 
 <div class="row"> 
 <div class="col-3"></div>
-<div class="col-6"><span class="image fit"><img src="../images/voice-shopping.png" alt=""></span></div>
+<div class="col-6"><span class="image fit"><img src="../images/voice-shopping.jpg" alt=""></span></div>
 <div class="col-3"></div>
 </div>
 
