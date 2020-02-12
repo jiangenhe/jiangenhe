@@ -31,8 +31,8 @@ class Header extends Component {
             audio.play()
           }}>JE-an-gen HER</a>
           <p>
-            I am a PhD candidate in Information Science at Drexel University. <br/>
-          My current research focus on visual analytics, data-driven predictions, and critical information measurement in scientific development and studies of how socialness in artificial intelligence affects people’s information and decision-making behavior.</p>
+            I am a PhD candidate in Information Science at <a href="https://drexel.edu/cci/" >Drexel University</a>. <br/>
+          My research focus on visual analytics, data-driven predictions, and measurement in science of science and <br/> studies of how socialness in artificial intelligence affects people’s information and decision-making behavior.</p>
         </div> : <div/>}
         </div>
       </section>
